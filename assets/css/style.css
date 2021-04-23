@@ -780,7 +780,7 @@ section {
 }
 
 .buy-button {
-  scale: 3;
+  transform: scale(3);
   margin-left: 100px;
   margin-top: 50px;
 }
