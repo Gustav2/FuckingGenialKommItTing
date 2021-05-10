@@ -1,1 +1,3 @@
 # FuckingGenialKommItTing
+
+Hej Jørn!
